@@ -34,26 +34,26 @@
 
 ## 🔥 Featured Projects
 
-### 📈 **Stock Market EDA & Risk Analysis (Python)**
+### 📈 [**Stock Market EDA & Risk Analysis (Python)**](https://github.com/Arshdeep0204/NIfty_Stocks_EDA_Analysis)
 - Analyzed **3 years of stock data across 5 NIFTY stocks**
-- Identified volatility patterns, return behaviors, & diversification opportunities  
+- Identified volatility patterns, return behaviors, & diversification opportunities
 - Built correlation heatmaps, rolling volatility, and trend visualizations  
-➡️ *Demonstrates analytics + financial reasoning*
+*🔍 Demonstrates analytics + financial reasoning*
 
 ---
 
-### 📊 **Business Insights 360 Dashboard (Power BI)**
-- Multi-department KPI dashboard integrating Excel & SQL  
-- Used DAX to optimize performance & deliver actionable insights  
+### 📊 [**Business Insights 360 Dashboard (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiYTVjMDA2MjAtY2ZjZi00YmVlLWEwODYtZThmZmQxMjhmMTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Multi-department KPI dashboard integrating Excel & SQL
+- Used DAX to optimize performance & deliver actionable insights
 - Helped simulate **10% revenue growth & 20% cost reduction potential**  
-➡️ *Shows dashboarding + business understanding*
+*📌 Shows dashboarding + business understanding*
 
 ---
 
-### 💼 **Financial Reporting & Customer Performance (Excel + Power Query)**
-- Built a 4-year financial summary using Pivot Tables & DAX  
+### 📘 [**Financial Reporting & Customer Performance (Excel + Power Query)**](https://github.com/Arshdeep0204/AtliQ_Excel_Report)
+- Built a 4-year financial summary using Pivot Tables & DAX
 - Reduced data processing time by **50%** via Power Query automation  
-➡️ *Proves your Excel & reporting skills*
+*📁 Proves your Excel & reporting skills*
 
 ---
 
